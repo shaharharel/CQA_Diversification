@@ -1,0 +1,11 @@
+num_iters = 1501
+batch_size = 5 #10000
+corrupt_size = 3
+slice_size = 5
+wv_size = 100
+regularization = 0.0001
+save_per_iter = 50
+learning_rate = 0.001
+max_sentence_length = 100
+lstm_size = 50
+output_path = 'output/'
